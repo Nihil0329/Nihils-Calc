@@ -1,2 +1,2 @@
-# Nihil-s-Calc
+# Nihils-Calc
 Calculator app using Flutter
